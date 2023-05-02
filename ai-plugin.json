@@ -1,18 +1,18 @@
 {
-  "schema_version": "v1",
-  "name_for_human": "DuckDuckGo",
-  "name_for_model": "DuckDuckGo",
-  "description_for_human": "Search DuckDuckGo and get the URL of the first result",
-  "description_for_model": "Search DuckDuckGo and get the URL of the first result",
-  "auth": {
-    "type": "none"
-  },
-  "api": {
-    "type": "openapi",
-    "url": "/openapi.json",
-    "is_user_authenticated": false
-  },
-  "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/The_DuckDuckGo_Duck.png/240px-The_DuckDuckGo_Duck.png",
-  "contact_email": "support@example.com",
-  "legal_info_url": "https://example.com/legal"
+    "schema_version": "v1",
+    "name_for_human": "DuckDuckGo",
+    "name_for_model": "DuckDuckGo",
+    "description_for_human": "Search DuckDuckGo and get the URL of the first result",
+    "description_for_model": "Search DuckDuckGo and get the URL of the first result",
+    "auth": {
+        "type": "none"
+    },
+    "api": {
+        "type": "openapi",
+        "url": "/openapi.json",
+        "is_user_authenticated": false
+    },
+    "logo_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/90/The_DuckDuckGo_Duck.png/240px-The_DuckDuckGo_Duck.png",
+    "contact_email": "support@example.com",
+    "legal_info_url": "https://example.com/legal"
 }
